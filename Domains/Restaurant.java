@@ -1,4 +1,5 @@
-package Domains;
+
+import java.util.Date;
 
 public class Restaurant {
 private int restaurantid;
