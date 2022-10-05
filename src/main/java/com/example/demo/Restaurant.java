@@ -1,4 +1,4 @@
-
+package com.example.demo;
 import java.util.Date;
 
 public class Restaurant {
